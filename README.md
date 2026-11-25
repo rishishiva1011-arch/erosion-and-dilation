@@ -94,8 +94,23 @@ plt.axis('off')
 
 ```
 
-## Expected Output
+##  Output
 
+### Original Image
+
+<img width="1641" height="1320" alt="image" src="https://github.com/user-attachments/assets/f444c07f-b22b-40e2-bbd5-c0fb4ca24b7d" />
+
+
+### Eroded Image
+
+
+<img width="504" height="525" alt="image" src="https://github.com/user-attachments/assets/a9900e19-066a-43af-a273-dd6ed597a237" />
+
+
+### Dilated Image
+
+
+<img width="1725" height="1323" alt="image" src="https://github.com/user-attachments/assets/f3c07a18-e6df-41de-851e-fd8801ae0baa" />
 
 
 
