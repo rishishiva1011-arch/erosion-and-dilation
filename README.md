@@ -104,7 +104,8 @@ plt.axis('off')
 ### Eroded Image
 
 
-<img width="504" height="525" alt="image" src="https://github.com/user-attachments/assets/a9900e19-066a-43af-a273-dd6ed597a237" />
+<img width="1629" height="1305" alt="image" src="https://github.com/user-attachments/assets/2f301f17-3f28-4913-93aa-da1a5720ab17" />
+
 
 
 ### Dilated Image
